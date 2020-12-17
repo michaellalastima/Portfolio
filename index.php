@@ -10,7 +10,7 @@
 			<div class="header"></div>
 					
 						  <ul><center>
-							<li><a href="Index.php">HOME</a></li>
+							<li><a href="index.php">HOME</a></li>
 							<li><div class="CSS">CSS</div>
 							  <ul class="dropdown">
 								<li><a href="elements.php">Css Elements</a></li>
